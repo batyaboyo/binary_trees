@@ -44,10 +44,3 @@ Don’t forget to push your header file
 All your header files should be include guarded
 GitHub
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
-
-More Info
-Data structures
-Please use the following data structures and types for binary trees. Don’t forget to include them in your header file.
-
-Basic Binary Tree
-epo. It may not be used during the correction
