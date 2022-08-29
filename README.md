@@ -70,14 +70,7 @@ struct binary_tree_s
     struct binary_tree_s *right;
 };
 
-typedef struct binary_tree_s binary_tree_t;
-Binary Search Tree
-typedef struct binary_tree_s bst_t;
-AVL Tree
-typedef struct binary_tree_s avl_t;
-Max Binary Heap
-typedef struct binary_tree_s heap_t;
-Note: For tasks 0 to 23 (included), you have to deal with simple binary trees. They are not BSTs, thus they don’t follow any kind of rule.
+t have to deal with simple binary trees. They are not BSTs, thus they don’t follow any kind of rule.
 
 Print function
 To match the examples in the tasks, you are given this function
