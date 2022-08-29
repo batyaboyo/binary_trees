@@ -54,25 +54,4 @@ Data structures
 Please use the following data structures and types for binary trees. Don’t forget to include them in your header file.
 
 Basic Binary Tree
-/**
- * struct binary_tree_s - Binary tree node
- *
- * @n: Integer stored in the node
- * @parent: Pointer to the parent node
- * @left: Pointer to the left child node
- * @right: Pointer to the right child node
- */
-struct binary_tree_s
-{
-    int n;
-    struct binary_tree_s *parent;
-    struct binary_tree_s *left;
-    struct binary_tree_s *right;
-};
-
-t have to deal with simple binary trees. They are not BSTs, thus they don’t follow any kind of rule.
-
-Print function
-To match the examples in the tasks, you are given this function
-
-This function is used only for visualization purposes. You don’t have to push it to your repo. It may not be used during the correction
+epo. It may not be used during the correction
